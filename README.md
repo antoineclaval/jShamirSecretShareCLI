@@ -29,6 +29,8 @@ then
 
 mvn test 
 
+[Test for the explicitely described scenario](src/test/java/org/claval/AppTest.java#L60)
+
 ---
 
 ## Reference 
